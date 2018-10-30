@@ -147,3 +147,5 @@ dist/
 nbdist/
 .nb-gradle/
 
+uploads
+
