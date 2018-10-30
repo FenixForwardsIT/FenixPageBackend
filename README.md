@@ -29,7 +29,7 @@ $ mvn clean install -DskipTests
 ```
 5) Launch the application
 ```sh
-$ mvn mvn spring-boot:run
+$ mvn spring-boot:run
 ```
 The application will start running on **localhost:8080**. This can be tested by making a **GET** request to **http://localhost:8080/project** (It won't show anything because there are no projects, but you should get a 200 response)
 
